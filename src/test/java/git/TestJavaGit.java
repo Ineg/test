@@ -16,7 +16,6 @@ public class TestJavaGit {
      */
     public static void main(String[] args) {
         System.out.println("azeaze");
-        System.out.println("hgjkklki");
     }
     
 }
