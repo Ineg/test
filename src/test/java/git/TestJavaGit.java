@@ -15,15 +15,7 @@ public class TestJavaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("azeaze");
-        uju$^p^mçrti
-                thgy
-                        ty
-                        u
-                                ty
-                                u
-                                        rur
-                                        
+        System.out.println("azeaze"); 
     }
     
 }
