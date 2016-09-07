@@ -17,6 +17,13 @@ public class TestJavaGit {
     public static void main(String[] args) {
         System.out.println("azeaze");
         uju$^p^mçrti
+                thgy
+                        ty
+                        u
+                                ty
+                                u
+                                        rur
+                                        
     }
     
 }
